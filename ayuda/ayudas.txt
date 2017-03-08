@@ -1,0 +1,7 @@
+http://www.getlaura.com/how-to-enable-sessions-with-sinatra/
+
+
+$ shotgun config.ru
+
+http://localhost:9393/
+
